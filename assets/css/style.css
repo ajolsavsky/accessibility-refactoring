@@ -29,6 +29,7 @@ header {
     background-color: #2a607c;
     color: #ffffff;
     display: flex;
+    justify-content: space-between;
 }
 
 header h1 {
