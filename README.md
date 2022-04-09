@@ -36,7 +36,7 @@ THEN I find a concise, descriptive title
 
 Here is an example of the final page.
 
-![screenshot of finised page](../accessibility-refactoring/assets/images/accessibility-refactoring.png)
+![screenshot of finished page](./assets/images/accessibility-refactoring.png)
 
 ## Credits
 
